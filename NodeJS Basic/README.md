@@ -50,7 +50,9 @@ nodejs = ECMAScript + nodejs API
 
 补充
 
-	commonjs 模块化
+	commonjs 模块化[示例与语法见CommonJS Example文件夹]
+		模块化的好处: 代码拆分, 复用
+
 	nodejs debugger
 
 ### server开发 和 前端开发 的区别
