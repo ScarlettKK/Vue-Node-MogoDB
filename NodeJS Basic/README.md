@@ -88,6 +88,14 @@ nodejs = ECMAScript + nodejs API
 
 总结: 几点区别 如何在nodejs中进行解决
 
+### 本章总结
+
+nodejs 下载安装, 两种方式
+
+nodejs 和 前端js 的区别, commonjs 和 debugger
+
+server 开发 和 前端开发的区别, 重点在于切换思路
+
 
 
 
